@@ -51,10 +51,10 @@
 :root {
     --tg-body-font-family: 'Plus Jakarta Sans', sans-serif;
     --tg-heading-font-family: 'Urbanist', sans-serif;
-    --tg-primary-color: #0055FF;
-    --tg-secondary-color: #00194C;
+    --tg-primary-color: #00acd8;
+    --tg-secondary-color: #1a1952;
     --tg-body-font-color: #687799;
-    --tg-heading-font-color: #00194C;
+    --tg-heading-font-color: #1a1952;
     --tg-paragraph-color: #687799;
     --tg-section-background: #F8FAFF;
     --tg-body-font-size: 16px;
@@ -538,7 +538,7 @@ label {
 .logo img,
 .f-logo img,
 .fw-logo img {
-    max-height: 29px;
+    max-height: 79px;
 }
 .navbar-wrap {
 	display: flex;
@@ -3889,7 +3889,7 @@ label {
 	top: 0;
 	width: 100%;
 	height: 100%;
-	background: linear-gradient(360deg, #00194C 11.66%, rgba(0, 25, 76, 0) 65.89%);
+	background: linear-gradient(360deg, #1a1952 11.66%, rgba(0, 25, 76, 0) 65.89%);
 }
 .services-thumb-two::after {
 	content: "";
@@ -3898,7 +3898,7 @@ label {
 	top: 0;
 	width: 100%;
 	height: 100%;
-	background: linear-gradient(360deg, rgb(0 25 76 / 55%) 52.77%, rgba(0, 25, 76, 0) 100%, #00194C 100%);
+	background: linear-gradient(360deg, rgb(0 25 76 / 55%) 52.77%, rgba(0, 25, 76, 0) 100%, #1a1952 100%);
 	transition: .3s linear;
 	opacity: 0;
 }
@@ -8388,7 +8388,7 @@ label {
 	color: var(--tg-white);
 }
 .footer-bottom-two {
-	border-top: 1px solid #EAEAEA;
+	border-top: 1px solid #000000;
 	padding: 27px 0;
 }
 .copyright-text-two p {
