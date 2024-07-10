@@ -683,7 +683,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   animation-name: bounceInUp;
 }
 
-@-webkit-keyframes bounceOut {
+@-webkit-keyframes bounceout {
   0% {
     -webkit-transform: scale(1);
     transform: scale(1);
@@ -707,7 +707,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-@keyframes bounceOut {
+@keyframes bounceout {
   0% {
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
@@ -735,12 +735,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.bounceOut {
-  -webkit-animation-name: bounceOut;
-  animation-name: bounceOut;
+.bounceout {
+  -webkit-animation-name: bounceout;
+  animation-name: bounceout;
 }
 
-@-webkit-keyframes bounceOutDown {
+@-webkit-keyframes bounceoutDown {
   0% {
     -webkit-transform: translateY(0);
     transform: translateY(0);
@@ -759,7 +759,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-@keyframes bounceOutDown {
+@keyframes bounceoutDown {
   0% {
     -webkit-transform: translateY(0);
     -ms-transform: translateY(0);
@@ -781,12 +781,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.bounceOutDown {
-  -webkit-animation-name: bounceOutDown;
-  animation-name: bounceOutDown;
+.bounceoutDown {
+  -webkit-animation-name: bounceoutDown;
+  animation-name: bounceoutDown;
 }
 
-@-webkit-keyframes bounceOutLeft {
+@-webkit-keyframes bounceoutLeft {
   0% {
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -805,7 +805,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-@keyframes bounceOutLeft {
+@keyframes bounceoutLeft {
   0% {
     -webkit-transform: translateX(0);
     -ms-transform: translateX(0);
@@ -827,12 +827,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.bounceOutLeft {
-  -webkit-animation-name: bounceOutLeft;
-  animation-name: bounceOutLeft;
+.bounceoutLeft {
+  -webkit-animation-name: bounceoutLeft;
+  animation-name: bounceoutLeft;
 }
 
-@-webkit-keyframes bounceOutRight {
+@-webkit-keyframes bounceoutRight {
   0% {
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -851,7 +851,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-@keyframes bounceOutRight {
+@keyframes bounceoutRight {
   0% {
     -webkit-transform: translateX(0);
     -ms-transform: translateX(0);
@@ -873,12 +873,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.bounceOutRight {
-  -webkit-animation-name: bounceOutRight;
-  animation-name: bounceOutRight;
+.bounceoutRight {
+  -webkit-animation-name: bounceoutRight;
+  animation-name: bounceoutRight;
 }
 
-@-webkit-keyframes bounceOutUp {
+@-webkit-keyframes bounceoutUp {
   0% {
     -webkit-transform: translateY(0);
     transform: translateY(0);
@@ -897,7 +897,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-@keyframes bounceOutUp {
+@keyframes bounceoutUp {
   0% {
     -webkit-transform: translateY(0);
     -ms-transform: translateY(0);
@@ -919,9 +919,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 }
 
-.bounceOutUp {
-  -webkit-animation-name: bounceOutUp;
-  animation-name: bounceOutUp;
+.bounceoutUp {
+  -webkit-animation-name: bounceoutUp;
+  animation-name: bounceoutUp;
 }
 
 @-webkit-keyframes fadeIn {
